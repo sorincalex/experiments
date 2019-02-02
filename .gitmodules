@@ -1,0 +1,4 @@
+[submodule "_submodule"]
+        path = _submodule
+        url = git@github.com:sorincalex/submodule.git
+        branch = master
