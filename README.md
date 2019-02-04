@@ -5,3 +5,4 @@ More work on the first branch.
 Actually, this is a new branch.
 
 A new change from test_branch2.
+And another change from test_branch2.
