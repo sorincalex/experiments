@@ -7,3 +7,4 @@ This is the second branch.
 
 2. Added something after the submodule.
 5. Again on test_branch.
+20. In parent module, after rebasing submodule to sub_branch2.
