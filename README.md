@@ -13,3 +13,4 @@ This is the second branch.
 
 A new change from test_branch2.
 And another change from test_branch2.
+23. Check the squash.
